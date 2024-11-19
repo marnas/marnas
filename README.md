@@ -6,15 +6,6 @@
   <a href="mailto:marco@santonastaso.com" title="Email Address"><code>marco@santonastaso.com</code></a>
 </p>
 
-<!-- Socials -->
-<p align="center">
-  <kbd>
-    <a href="https://twitter.com/marco_snts" title="Twitter - @marco_snts">Twitter</a> | 
-    <a href="https://www.linkedin.com/in/marco-santonastaso/" title="LinkedIn - Marco Santonastaso">Linkedin</a> | 
-    <a href="https://santonastaso.com" title="Personal Website - santonastaso.com">santonastaso.com</a>
-  </kbd>
-</p>
-
 <!-- About Section -->
 <!--<details>-->
 <!--<summary><b>👤 About</b></summary>-->
@@ -29,3 +20,15 @@
 <!--</p>-->
 <!--</details>-->
 <!---->
+
+<!-- Metrics Section -->
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
+
+<!-- Socials -->
+<p align="center">
+  <kbd>
+    <a href="https://twitter.com/marco_snts" title="Twitter - @marco_snts">Twitter</a> | 
+    <a href="https://www.linkedin.com/in/marco-santonastaso/" title="LinkedIn - Marco Santonastaso">Linkedin</a> | 
+    <a href="https://santonastaso.com" title="Personal Website - santonastaso.com">santonastaso.com</a>
+  </kbd>
+</p>
