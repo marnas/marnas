@@ -16,14 +16,6 @@
 <!--</details>-->
 <!---->
 
-<!-- Contact -->
-<p align="center">
-  <a href="mailto:marco@santonastaso.com" title="Email Address"><code>marco@santonastaso.com</code></a>
-</p>
-
-<!-- Metrics Section -->
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
-
 <!-- Tech Stack -->
 <div align="center">
 
@@ -33,6 +25,13 @@
 
 </div>
 
+<!-- Metrics Section -->
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
+
+<!-- Contact -->
+<p align="center">
+  <a href="mailto:marco@santonastaso.com" title="Email Address"><code>marco@santonastaso.com</code></a>
+</p>
 
 <!-- Socials -->
 <p align="center">
