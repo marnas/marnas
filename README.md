@@ -1,11 +1,6 @@
 <!-- Title -->
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Marco<h1>
 
-<!-- Contact and keys -->
-<p align="center">
-  <a href="mailto:marco@santonastaso.com" title="Email Address"><code>marco@santonastaso.com</code></a>
-</p>
-
 <!-- About Section -->
 <!--<details>-->
 <!--<summary><b>👤 About</b></summary>-->
@@ -21,8 +16,23 @@
 <!--</details>-->
 <!---->
 
+<!-- Contact -->
+<p align="center">
+  <a href="mailto:marco@santonastaso.com" title="Email Address"><code>marco@santonastaso.com</code></a>
+</p>
+
 <!-- Metrics Section -->
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
+
+<!-- Tech Stack -->
+<div align="center">
+
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
 
 <!-- Socials -->
 <p align="center">
